@@ -40,7 +40,7 @@ The episode terminates when the agent reaches the goal state (G) or falls into a
 
 ### Graphical Representation:
 
-
+![sdmdp](https://github.com/SaiDarshan2003/rl-value-iteration/assets/94692595/302ccc72-ffe2-4fc4-a156-61439a96784d)
 
 
 ## POLICY ITERATION ALGORITHM
